@@ -1,5 +1,12 @@
 # Gin Heroku demo
 
+## heroku
+
+* heroku dashboard https://dashboard.heroku.com/apps/gin-demo/
+* app https://gin-demo.herokuapp.com/
+
+## local test
+
 ```bash
 go mod vendor
 go build -o gindemo
